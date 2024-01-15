@@ -1,4 +1,4 @@
-This is a basic To-do app made using React JS with the help of Vite. Here, in this project I used the concept of Context API with Local Storage.
+This is a basic To-do app made using React JS with the help of Vite. Here, in this project I used the concept of Context API using Local Storage.
 
 Initially our list is empty:
 
@@ -24,7 +24,7 @@ To delete an unwanted task from the To-Do list, simply click the 'X' button, it'
 ![WhatsApp Image 2024-01-15 at 17 13 44_46a33065](https://github.com/AryaJeet1364/To-Do/assets/117663266/ff1ecb92-7fe4-411b-80f3-e7cb95299069)
 
 I don't want these tasks to disappear when I referesh the page or return to the page after some time, is this possible??  
-Yes!! The concept used to make this To-Do List project is Context API with Local Storage, which sets it apart from various other To-Do apps made using only HTML,CSS & JS. 
+Yes!! The concept used to make this To-Do List project is Context API using Local Storage, which sets it apart from various other To-Do apps made using only HTML,CSS & JS. 
 
 
 
